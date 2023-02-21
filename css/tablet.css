@@ -1,0 +1,40 @@
+html{
+    font-size: 75%;
+}
+
+header img {
+    width: 200px;
+    height: 100px;
+}
+
+.header-container-title .header-container-title__button{
+    width: 260px;
+}
+
+
+.currency{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.product-cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+    justify-content: center;
+
+}
+
+.bitcoin-img-container h2{
+    font-size: 4rem;
+    position: absolute;
+    left: calc(50% - 260px);
+    bottom: calc(75%);
+}
+
+.carousel{
+    width: 50% !important;
+    margin: 0 auto;
+}
