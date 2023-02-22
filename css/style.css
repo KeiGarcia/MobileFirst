@@ -569,6 +569,11 @@ main {
     transition: .5s;
 }
 
+.plan-card__container--premium{
+    background: rgb(191,149,63);
+background: linear-gradient(90deg, rgba(191,149,63,1) 0%, rgba(252,246,186,1) 30%, rgba(208,186,69,1) 50%, rgba(246,238,173,1) 70%, rgba(246,238,173,1) 70%, rgba(191,149,63,1) 100%);
+}
+
 /* FOOTER */
 
 footer {
